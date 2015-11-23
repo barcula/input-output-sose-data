@@ -212,10 +212,7 @@
   "contact":"frederic.haase1@gmx.de",
   "repos": [
     "orderlychaos",
-    "analog-algorithm",
-    "digital-algorithm",
-    "generative-Logo"
-    "Colour-Picker",
+    "Slimemould",
     "Keep Movin",
     
   ],
@@ -228,7 +225,7 @@
   },
   
   "slime": {
-    "title": "Color picker",
+    "title": "Slimemould",
     "image": "jasonpilz.png",
     "thumb": "jasonpilz-thumb.png",
     "repo-url": "https://github.com/barcula/Slimemould",
